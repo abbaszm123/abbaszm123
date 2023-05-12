@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abbas</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbaszm123&label=Profile%20views&color=0e75b6&style=flat" alt="abbaszm123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abbaszohai26927" target="blank"><img src="https://img.shields.io/twitter/follow/abbaszohai26927?logo=twitter&style=for-the-badge" alt="abbaszohai26927" /></a> </p>
@@ -16,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/abbaszohai26927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbaszohai26927" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abbas zohair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas zohair" height="30" width="40" /></a>
+<a href="https://instagram.com/abbas_z_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbas_z_m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbaszm123&show_icons=true&locale=en" alt="abbaszm123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbaszm123&" alt="abbaszm123" /></p>
+
